@@ -55,8 +55,8 @@
 <br/>
 
 <a href="https://github.com/greattusk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=greattusk&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greattusk&theme=buefy&layout=compact" />
+  <img height="180em" src="https://mystats-ivory.vercel.app/api?username=greattusk&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://mystats-ivory.vercel.app/api/top-langs/?username=greattusk&theme=buefy&layout=compact" />
 </a>
 
 <br/>
