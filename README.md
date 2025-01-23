@@ -56,7 +56,7 @@
 
 <a href="https://github.com/greattusk">
   <img height="180em" src="https://mystats-ivory.vercel.app/api?username=greattusk&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://mystats-ivory.vercel.app/api/top-langs/?username=greattusk&theme=buefy&layout=compact" />
+  <img height="180em" src="https://mystats-ivory.vercel.app/api/top-langs/?username=greattusk&theme=buefy&layout=compact&langs_count=8" />
 </a>
 
 <br/>
